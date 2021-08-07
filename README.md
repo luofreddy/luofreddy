@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freddy10-github&label=Profile%20views&color=0e75b6&style=flat" alt="freddy10-github" /> </p>
 
-- 🌱 I’m currently learning **react,tailwind**
+- 🌱 I’m currently learning **React,Tailwind,TypeScript**
 
 - 📝 I regularly write articles on [https://freddy10-github.github.io/](https://freddy10-github.github.io/)
 
