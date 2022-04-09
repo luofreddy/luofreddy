@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React,Tailwind,TypeScript**
 
-- 📝 I regularly write articles on [https://freddy10-github.github.io/](https://freddy10-github.github.io/)
+- 📝 I regularly write articles on [https://luofreddy.github.io/](https://luofreddy.github.io/)
 
 - 📫 How to reach me **a0983330053@gmail.com**
 
